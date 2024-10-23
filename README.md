@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hafsa.
-- 👀 I’m interested in front end Web and mobile app development
-- 🌱 I’m currently learning React and React Native frameworks
+  
 
 
 <!---
