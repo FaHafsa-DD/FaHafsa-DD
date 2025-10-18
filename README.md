@@ -46,10 +46,11 @@ I’m also exploring **cybersecurity**, learning how to build apps that are both
 
 #### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-FF3CAC?style=larger&logo=html5&logoColor=white&colorA=FF3CAC&colorB=B633FF)
-![CSS3](https://img.shields.io/badge/CSS3-FF3CAC?style=larger&logo=css3&logoColor=white&colorA=FF3CAC&colorB=B633FF)
+![CSS3](https://img.shields.io/badge/CSS3-FF3CAC?style=larger&logo=css&logoColor=white&colorA=FF3CAC&colorB=B633FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF3CAC?style=larger&logo=javascript&logoColor=white&colorA=FF3CAC&colorB=B633FF)
 ![jQuery](https://img.shields.io/badge/jQuery-FF3CAC?style=larger&logo=jquery&logoColor=white&colorA=FF3CAC&colorB=B633FF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-FF3CAC?style=larger&logo=bootstrap&logoColor=white&colorA=FF3CAC&colorB=B633FF)
+![Expo](https://img.shields.io/badge/Expo-FF3CAC?style=larger&logo=expo&logoColor=white&colorA=FF3CAC&colorB=B633FF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FF3CAC?style=larger&logo=tailwindcss&logoColor=white&colorA=FF3CAC&colorB=B633FF)
 ![NativeWind](https://img.shields.io/badge/NativeWind-FF3CAC?style=larger&logo=react&logoColor=white&colorA=FF3CAC&colorB=B633FF)
 ![React](https://img.shields.io/badge/React-FF3CAC?style=larger&logo=react&logoColor=white&colorA=FF3CAC&colorB=B633FF)
@@ -58,7 +59,7 @@ I’m also exploring **cybersecurity**, learning how to build apps that are both
 ![Vite](https://img.shields.io/badge/Vite-FF3CAC?style=larger&logo=vite&logoColor=white&colorA=FF3CAC&colorB=B633FF)
 
 #### 🗄️ Backend / Database
-![SQL](https://img.shields.io/badge/SQL-FF3CAC?style=larger&logo=postgresql&logoColor=white&colorA=FF3CAC&colorB=B633FF)
+![SQL](https://img.shields.io/badge/SQL-FF3CAC?style=larger&logo=mysql&logoColor=white&colorA=FF3CAC&colorB=B633FF)
 ![Supabase](https://img.shields.io/badge/Supabase-FF3CAC?style=larger&logo=supabase&logoColor=white&colorA=FF3CAC&colorB=B633FF)
 
 #### 🖌️ Design Tools
