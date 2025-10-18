@@ -64,7 +64,7 @@ I’m also exploring **cybersecurity**, learning how to build apps that are both
 #### 🖌️ Design Tools
 ![Figma](https://img.shields.io/badge/Figma-FF3CAC?style=larger&logo=figma&logoColor=white&colorA=FF3CAC&colorB=B633FF)
 ![Canva](https://img.shields.io/badge/Canva-FF3CAC?style=larger&logo=canva&logoColor=white&colorA=FF3CAC&colorB=B633FF)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF3CAC?style=larger&logo=framer&logoColor=white&colorA=FF3CAC&colorB=B633FF)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF3CAC?style=larger&logo=motion&logoColor=white&colorA=FF3CAC&colorB=B633FF)
 ![WordPress](https://img.shields.io/badge/WordPress-FF3CAC?style=larger&logo=wordpress&logoColor=white&colorA=FF3CAC&colorB=B633FF)
 
 #### 🛠️ Tools / Editors
