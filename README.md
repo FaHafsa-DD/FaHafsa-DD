@@ -13,7 +13,7 @@ I’m also exploring **cybersecurity**, learning how to build apps that are both
 ⚛️ Mastering **React** for building dynamic and scalable web apps  
 📱 Learning **React Native with Expo** for cross-platform mobile development  
 🗄️ Integrating **Supabase** for backend services, authentication, and database management  
-💡 Improving my **JavaScript**, **Redux**, and **component-based design** skills  
+💡 Improving my **JavaScript**, **Zustand**, and **component-based design** skills  
 🛡️ Studying **cybersecurity fundamentals** and **secure coding practices**
 
 ---
@@ -78,16 +78,13 @@ I’m also exploring **cybersecurity**, learning how to build apps that are both
 
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FaHafsa-DD&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FaHafsa-DD&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaHafsa-DD&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 
 
 ✨ _"Design beautifully, code securely, and build with purpose."_ ✨
 
----
+
 <!--[![](https://visitcount.itsvg.in/api?id=FaHafsa-DD&icon=0&color=5)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
